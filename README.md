@@ -21,6 +21,9 @@
 
 ## Screenshots : 
 
+![Login](https://github.com/PasswordVault-C-GTK/img/s1.png "Budgie - Solus")
+
+![View Data](https://github.com/PasswordVault-C-GTK/img/s2.png "data")
 
 ## ⚠️ WARNING : 
-Do not use this software for too confidential data.** (confidential data is converted to binary. The data can be hacked.)
+Do not use this software for too confidential data. (confidential data is converted to binary. The data can be hacked).
