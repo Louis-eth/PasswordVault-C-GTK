@@ -10,7 +10,7 @@
 
 ## How to use ? 
 
-* Start by cloning the repository. 
+* Start by cloning the repository (`src` folder). 
 * Then you can add your login credentials in the file `show_data.c`.
 * You can change your password in the verification function of `window.c`.
 * Compile the program with : 
